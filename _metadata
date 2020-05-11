@@ -1,0 +1,9 @@
+{
+  "author" : "Cyan Sky Knight",
+  "description" : "Adds dye and body colors from the Saturnians to Green's Dye Suite.",
+  "friendlyName" : "Saturnian Dyes for Green's Dye Suite",
+  "name" : "SaturniansDyePatch",
+  "priority" : 1,
+  "tags" : "Miscellaneous|In-Game Tools|Armor and Clothes",
+  "version" : "1.0"
+}

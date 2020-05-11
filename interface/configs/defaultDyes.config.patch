@@ -1,0 +1,798 @@
+[
+//Saturnian Dyes
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Maroon", 
+			"categories" : [ "all", "saturnians", "sat. dye",  "red" ],
+			"colours" : { "ffca8a" : "8C5357", "e0975c" : "804247", "a85636" : "5D2730", "6f2919" : "411A24" }
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Sand", 
+			"categories" : [ "all", "saturnians", "sat. dye", "brown" ],
+			"colours" : { "ffca8a" : "E7DFBD", "e0975c" : "BCAD80", "a85636" : "8D7B58", "6f2919" : "5D4F34" }
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Lime", 
+			"categories" : [ "all", "saturnians", "sat. dye", "green", "yellow" ],
+			"colours" : { "ffca8a" : "C2CC6A", "e0975c" : "9BBA3D", "a85636" : "63822E", "6f2919" : "32491A" }
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Earth Green", 
+			"categories" : [ "all", "saturnians", "sat. dye", "green" ],
+			"colours" : { "ffca8a" : "6CA563", "e0975c" : "3F6B38", "a85636" : "284223", "6f2919" : "0E2809" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Cyan", 
+			"categories" : [ "all", "saturnians", "sat. dye", "cyan" ],
+			"colours" : { "ffca8a" : "78C7CC", "e0975c" : "4FACB2", "a85636" : "30636C", "6f2919" : "233C43" }
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Indigo", 
+			"categories" : [ "all", "saturnians", "sat. dye", "purple", "blue" ],
+			"colours" : { "ffca8a" : "7670CC", "e0975c" : "564FB5", "a85636" : "31357C", "6f2919" : "192247" }
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Cool Grey", 
+			"categories" : [ "all", "saturnians", "sat. dye", "gray" ],
+			"colours" : { "ffca8a" : "5B6779", "e0975c" : "4B586B", "a85636" : "2F3C4B", "6f2919" : "202C35" }
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Warm Grey", 
+			"categories" : [ "all", "saturnians", "sat. dye", "gray" ],
+			"colours" : { "ffca8a" : "706460", "e0975c" : "615350", "a85636" : "433634", "6f2919" : "2F2424" }
+	}}, 
+	{
+	
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Soft Yellow", 
+			"categories" : [ "all", "saturnians", "sat. dye", "yellow" ],
+			"colours" : { "ffca8a" : "D8AB43", "e0975c" : "C88B28", "a85636" : "8D581C", "6f2919" : "663B14" }
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Teal", 
+			"categories" : [ "all", "saturnians", "sat. dye", "cyan" ],
+			"colours" : { "ffca8a" : "57D0A5", "e0975c" : "3CBC98", "a85636" : "287F6E", "6f2919" : "1D5E56" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Regal Blue", 
+			"categories" : [ "all", "saturnians", "sat. dye", "blue" ],
+			"colours" : { "ffca8a" : "409ADA", "e0975c" : "337FCC", "a85636" : "2665BF", "6f2919" : "164093" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Regal Blue 2.0", 
+			"categories" : [ "all", "saturnians", "sat. dye", "blue" ],
+			"colours" : { "ffca8a" : "409ADA", "e0975c" : "337FCC", "a85636" : "1F4B9E", "6f2919" : "112D77" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Luna Green", 
+			"categories" : [ "all", "saturnians", "sat. dye", "green" ],
+			"colours" : { "ffca8a" : "A3ED9A", "e0975c" : "7BD67A", "a85636" : "5DBF65", "6f2919" : "3E994D" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Luna Green 2.0", 
+			"categories" : [ "all", "saturnians", "sat. dye", "green" ],
+			"colours" : { "ffca8a" : "A3ED9A", "e0975c" : "7BD67A", "a85636" : "53AD5F", "6f2919" : "3A874A" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Io Purple", 
+			"categories" : [ "all", "saturnians", "sat. dye", "purple" ],
+			"colours" : { "ffca8a" : "A781D6", "e0975c" : "7F61B7", "a85636" : "5F49A0", "6f2919" : "43387C" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Io Purple 2.0", 
+			"categories" : [ "all", "saturnians", "sat. dye", "purple" ],
+			"colours" : { "ffca8a" : "A781D6", "e0975c" : "7F61B7", "a85636" : "5C4996", "6f2919" : "39306D" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Light Pink", 
+			"categories" : [ "all", "saturnians", "sat. dye", "pink" ],
+			"colours" : { "ffca8a" : "FFC6F0", "e0975c" : "E5A7D9", "a85636" : "CC8AC5", "6f2919" : "B270B1" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Light Pink 2.0", 
+			"categories" : [ "all", "saturnians", "sat. dye", "pink" ],
+			"colours" : { "ffca8a" : "FFC6F0", "e0975c" : "E5A7D9", "a85636" : "BA78B3", "6f2919" : "915790" }
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Lavender", 
+			"categories" : [ "all", "saturnians", "sat. dye", "purple", "pink" ],
+			"colours" : { "ffca8a" : "DEC6FF", "e0975c" : "BCA7E5", "a85636" : "9B8ACC", "6f2919" : "7B70B2" }
+	}},
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Lavender 2.0", 
+			"categories" : [ "all", "saturnians", "sat. dye", "purple", "pink" ],
+			"colours" : { "ffca8a" : "DEC6FF", "e0975c" : "BCA7E5", "a85636" : "8F80BC", "6f2919" : "635A93" }
+	}}, 	
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Snow", 
+			"categories" : [ "all", "saturnians", "sat. dye", "white" ],
+			"colours" : { "ffca8a" : "F0F0F0", "e0975c" : "E1E1E1", "a85636" : "B9B9B9", "6f2919" : "8D8D8D" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Midnight", 
+			"categories" : [ "all", "saturnians", "sat. dye", "black" ],
+			"colours" : { "ffca8a" : "232323", "e0975c" : "131313", "a85636" : "040404", "6f2919" : "020202" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Evolight", 
+			"categories" : [ "all", "saturnians", "sat. dye", "white" ],
+			"colours" : { "ffca8a" : "FFFFFF", "e0975c" : "FFFCC9", "a85636" : "FFE6A5", "6f2919" : "F2CE91"}
+	}},
+	
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Noita Purple", 
+			"categories" : [ "all", "saturnians", "sat. dye", "purple" ],
+			"colours" : { "ffca8a" : "B5772D", "e0975c" : "7F5476", "a85636" : "543350", "6f2919" : "422542", "000000" : "272125"}
+	}},
+
+//Saturnian Dual Color Vanilla Dyes
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Black", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "black" ],
+			"colours" : { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515", "838383" : "57D0A5", "555555" : "3CBC98", "383838" : "287F6E"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Grey", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "gray" ],
+			"colours" : { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030", "838383" : "ccae7c", "555555" : "a47844", "383838" : "754c23"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual White", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "white" ],
+			"colours" : { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737", "838383" : "D8AB43", "555555" : "C88B28", "383838" : "8D581C"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Red", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "red" ],
+			"colours" : { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119", "838383" : "6CA563", "555555" : "3F6B38", "383838" : "284223"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Orange", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "orange" ],
+			"colours" : { "ffca8a" : "ffd495", "e0975c" : "ea9931", "a85636" : "af4e00", "6f2919" : "6e2900", "838383" : "96cbe7", "555555" : "5588d4", "383838" : "344495"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Yellow", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "yellow" ],
+			"colours" : { "ffca8a" : "ffffa7", "e0975c" : "e2c344", "a85636" : "a46e06", "6f2919" : "642f00", "838383" : "d29ce7", "555555" : "a451c4", "383838" : "6a2284"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Green", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "green" ],
+			"colours" : { "ffca8a" : "b2e89d", "e0975c" : "51bd3b", "a85636" : "247824", "6f2919" : "144216", "838383" : "8C5357", "555555" : "804247", "383838" : "5D2730"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Blue", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "blue" ],
+			"colours" : { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51", "838383" : "ffd495", "555555" : "ea9931", "383838" : "af4e00"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Purple", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "purple" ],
+			"colours" : { "ffca8a" : "d29ce7", "e0975c" : "a451c4", "a85636" : "6a2284", "6f2919" : "320c40", "838383" : "ffffa7", "555555" : "e2c344", "383838" : "a46e06"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Pink", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "pink" ],
+			"colours" : { "ffca8a" : "eab3db", "e0975c" : "d35eae", "a85636" : "97276d", "6f2919" : "59163f", "838383" : "C2CC6A", "555555" : "9BBA3D", "383838" : "63822E"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Brown", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "brown" ],
+			"colours" : { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13", "838383" : "e6e6e6", "555555" : "b6b6b6", "383838" : "7b7b7b"}
+	}},
+
+//Saturnian Dual Color New Dyes
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Maroon", 
+			"categories" : [ "all", "saturnians", "sat. dual dye",  "red" ],
+			"colours" : { "ffca8a" : "8C5357", "e0975c" : "804247", "a85636" : "5D2730", "6f2919" : "411A24", "838383" : "6CA563", "555555" : "3F6B38", "383838" : "284223"}
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Sand", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "brown" ],
+			"colours" : { "ffca8a" : "E7DFBD", "e0975c" : "BCAD80", "a85636" : "8D7B58", "6f2919" : "5D4F34", "838383" : "908BD3", "555555" : "564FB5", "383838" : "31357C"}
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Lime", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "green", "yellow" ],
+			"colours" : { "ffca8a" : "C2CC6A", "e0975c" : "9BBA3D", "a85636" : "63822E", "6f2919" : "32491A", "838383" : "eab3db", "555555" : "d35eae", "383838" : "97276d"}
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Earth Green", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "green" ],
+			"colours" : { "ffca8a" : "6CA563", "e0975c" : "3F6B38", "a85636" : "284223", "6f2919" : "0E2809", "838383" : "8C5357", "555555" : "804247", "383838" : "5D2730"}
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Cyan", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "cyan" ],
+			"colours" : { "ffca8a" : "8EE5DF", "e0975c" : "4FACB2", "a85636" : "30636C", "6f2919" : "233C43", "838383" : "D8AB43", "555555" : "C88B28", "383838" : "8D581C"}
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Indigo", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "purple", "blue" ],
+			"colours" : { "ffca8a" : "908BD3", "e0975c" : "564FB5", "a85636" : "31357C", "6f2919" : "192247", "838383" : "D8AB43", "555555" : "C88B28", "383838" : "8D581C"}
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Cool Grey", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "gray" ],
+			"colours" : { "ffca8a" : "5B6779", "e0975c" : "4B586B", "a85636" : "2F3C4B", "6f2919" : "202C35", "838383" : "E7DFBD", "555555" : "BCAD80", "383838" : "8D7B58"}
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Warm Grey", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "gray" ],
+			"colours" : { "ffca8a" : "706460", "e0975c" : "615350", "a85636" : "433634", "6f2919" : "2F2424", "838383" : "6CA563", "555555" : "3F6B38", "383838" : "284223"}
+	}}, 
+	{
+	
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Soft Yellow", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "yellow" ],
+			"colours" : { "ffca8a" : "D8AB43", "e0975c" : "C88B28", "a85636" : "8D581C", "6f2919" : "663B14", "838383" : "8EE5DF", "555555" : "4FACB2", "383838" : "30636C"}
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Teal", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "cyan" ],
+			"colours" : { "ffca8a" : "57D0A5", "e0975c" : "3CBC98", "a85636" : "287F6E", "6f2919" : "1D5E56", "838383" : "f4988c", "555555" : "d93a3a", "383838" : "932625"}
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Regal Blue", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "blue" ],
+			"colours" : { "ffca8a" : "409ADA", "e0975c" : "337FCC", "a85636" : "2665BF", "6f2919" : "164093", "838383" : "C9814E", "555555" : "BB6941", "383838" : "AB5035" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Regal Blue 2", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "blue" ],
+			"colours" : { "ffca8a" : "409ADA", "e0975c" : "337FCC", "a85636" : "1F4B9E", "6f2919" : "112D77", "838383" : "F7A63D", "555555" : "E07D2C", "383838" : "C65B1D" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Luna Green", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "green" ],
+			"colours" : { "ffca8a" : "A3ED9A", "e0975c" : "7BD67A", "a85636" : "5DBF65", "6f2919" : "3E994D", "838383" : "794E4E", "555555" : "5B3B3B", "383838" : "412629" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Luna Green 2", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "green" ],
+			"colours" : { "ffca8a" : "A3ED9A", "e0975c" : "7BD67A", "a85636" : "53AD5F", "6f2919" : "3A874A", "838383" : "794E4E", "555555" : "5B3B3B", "383838" : "412629" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Io Purple", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "purple" ],
+			"colours" : { "ffca8a" : "A781D6", "e0975c" : "7F61B7", "a85636" : "5F49A0", "6f2919" : "43387C", "838383" : "F9E47A", "555555" : "D8BA5F", "383838" : "BF984A" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Io Purple 2", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "purple" ],
+			"colours" : { "ffca8a" : "A781D6", "e0975c" : "7F61B7", "a85636" : "5C4996", "6f2919" : "39306D", "838383" : "F9E47A", "555555" : "D8BA5F", "383838" : "BF984A" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Light Pink", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "pink" ],
+			"colours" : { "ffca8a" : "FFC6F0", "e0975c" : "E5A7D9", "a85636" : "CC8AC5", "6f2919" : "B270B1", "838383" : "F9E47A", "555555" : "D8BA5F", "383838" : "BF984A" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Light Pink 2", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "pink" ],
+			"colours" : { "ffca8a" : "FFC6F0", "e0975c" : "E5A7D9", "a85636" : "BA78B3", "6f2919" : "915790", "838383" : "F9E47A", "555555" : "D8BA5F", "383838" : "BF984A" }
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Lavender", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "purple", "pink" ],
+			"colours" : { "ffca8a" : "DEC6FF", "e0975c" : "BCA7E5", "a85636" : "9B8ACC", "6f2919" : "7B70B2", "838383" : "57D0A5", "555555" : "3CBC98", "383838" : "287F6E" }
+	}}, 
+	{
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth D. Lavender 2", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "purple", "pink" ],
+			"colours" : { "ffca8a" : "DEC6FF", "e0975c" : "BCA7E5", "a85636" : "8F80BC", "6f2919" : "635A93", "838383" : "57D0A5", "555555" : "3CBC98", "383838" : "287F6E" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Snow", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "white" ],
+			"colours" : { "ffca8a" : "F0F0F0", "e0975c" : "E1E1E1", "a85636" : "B9B9B9", "6f2919" : "8D8D8D", "838383" : "6D6D6D", "555555" : "555555", "383838" : "3D3D3D" }
+	}}, 
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Midnight", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "black" ],
+			"colours" : { "ffca8a" : "232323", "e0975c" : "131313", "a85636" : "040404", "6f2919" : "020202", "838383" : "515151", "555555" : "393939", "383838" : "303030" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dual Evolight", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "white" ],
+			"colours" : { "ffca8a" : "FFFFFF", "e0975c" : "FFFCC9", "a85636" : "FFE6A5", "6f2919" : "F2CE91", "838383" : "6D6D6D", "555555" : "555555", "383838" : "3D3D3D" }
+	}},	
+	
+	{
+	
+
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Dual Noita Purple", 
+			"categories" : [ "all", "saturnians", "sat. dual dye", "purple" ],
+			"colours" : { "ffca8a" : "B5772D", "e0975c" : "7F5476", "a85636" : "543350", "6f2919" : "422542", "838383" : "DBC067", "555555" : "D19B3D", "383838" : "B5772D", "000000" : "272125" }
+	}}, 
+	
+	
+//Materials
+
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Ebony", 
+			"categories" : [ "all", "saturnians", "sat. dye", "blue", "black", "material"  ],
+			"colours" : { "ffca8a" : "616B89", "e0975c" : "464D63", "a85636" : "343949", "6f2919" : "151515"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Birch", 
+			"categories" : [ "all", "saturnians", "sat. dye", "brown", "material" ],
+			"colours" : { "ffca8a" : "FFE8BF", "e0975c" : "CCAD86", "a85636" : "9E7E60", "6f2919" : "684E35"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Oak", 
+			"categories" : [ "all", "saturnians", "sat. dye", "brown", "material" ],
+			"colours" : { "ffca8a" : "AA7156", "e0975c" : "7F5542", "a85636" : "614336", "6f2919" : "38261E"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Mahogany", 
+			"categories" : [ "all", "saturnians", "sat. dye", "brown", "material", "red" ],
+			"colours" : { "ffca8a" : "AF625B", "e0975c" : "824A45", "a85636" : "623B37", "6f2919" : "3A211E"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Mystwood", 
+			"categories" : [ "all", "saturnians", "sat. dye", "cyan", "material" ],
+			"colours" : { "ffca8a" : "42677F", "e0975c" : "32576B", "a85636" : "1F3A44", "6f2919" : "0F1F23"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Twiwood", 
+			"categories" : [ "all", "saturnians", "sat. dye", "purple", "material" ],
+			"colours" : { "ffca8a" : "63427F", "e0975c" : "4D326B", "a85636" : "2E1F44", "6f2919" : "150F23"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Brass", 
+			"categories" : [ "all", "saturnians", "sat. dye", "material", "yellow" ],
+			"colours" : { "ffca8a" : "E6C375", "e0975c" : "DBA14A", "a85636" : "C78A2A", "6f2919" : "8C571D"}
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Bronze", 
+			"categories" : [ "all", "saturnians", "sat. dye", "material", "yellow" ],
+			"colours" : { "ffca8a" : "B7B066", "e0975c" : "7F7A42", "a85636" : "6B6332", "6f2919" : "443C1F"}
+	}},
+	
+//Softer vanilla colors used for wings
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Matte Black", 
+			"categories" : [ "all", "saturnians", "sat. dye", "black" ],
+			"colours" : { "ffca8a" : "686868", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" }
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Matte Grey", 
+			"categories" : [ "all", "saturnians", "sat. dye", "gray" ],
+			"colours" : { "ffca8a" : "9B9B9B", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" }
+	}},
+
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Matte White", 
+			"categories" : [ "all", "saturnians", "sat. dye", "white" ],
+			"colours" : { "ffca8a" : "CCCCCC", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737" }
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Matte Red", 
+			"categories" : [ "all", "saturnians", "sat. dye", "red" ],
+			"colours" : { "ffca8a" : "EA5959", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" }
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Matte Orange", 
+			"categories" : [ "all", "saturnians", "sat. dye", "orange" ],
+			"colours" : { "ffca8a" : "F2AD59", "e0975c" : "ea9931", "a85636" : "af4e00", "6f2919" : "6e2900" }
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Matte Yellow", 
+			"categories" : [ "all", "saturnians", "sat. dye", "yellow" ],
+			"colours" : { "ffca8a" : "F2D563", "e0975c" : "e2c344", "a85636" : "a46e06", "6f2919" : "642f00" }
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Matte Green", 
+			"categories" : [ "all", "saturnians", "sat. dye", "green" ],
+			"colours" : { "ffca8a" : "6FD358", "e0975c" : "51bd3b", "a85636" : "247824", "6f2919" : "144216" }
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Matte Blue", 
+			"categories" : [ "all", "saturnians", "sat. dye", "blue" ],
+			"colours" : { "ffca8a" : "7FA8E2", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" }
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Matte Purple", 
+			"categories" : [ "all", "saturnians", "sat. dye", "purple" ],
+			"colours" : { "ffca8a" : "BF78DB", "e0975c" : "a451c4", "a85636" : "6a2284", "6f2919" : "320c40" }
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Matte Pink", 
+			"categories" : [ "all", "saturnians", "sat. dye", "pink" ],
+			"colours" : { "ffca8a" : "E27FC4", "e0975c" : "d35eae", "a85636" : "97276d", "6f2919" : "59163f" }
+	}},
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Matte Brown", 
+			"categories" : [ "all", "saturnians", "sat. dye", "brown" ],
+			"colours" : { "ffca8a" : "BC9262", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" }
+	}},
+	
+//Fluff
+	
+	
+	
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Supernova Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "white" ],
+			"colours" : { "ffca8a" : "FFFFFF", "e0975c" : "F2F2F2", "a85636" : "CCCCCC", "6f2919" : "A8A8A8" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth White Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "white" ],
+			"colours" : { "ffca8a" : "EFF4F4", "e0975c" : "D5E1E2", "a85636" : "A2AEB2", "6f2919" : "7E8899" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Light Grey Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "white", "gray" ],
+			"colours" : { "ffca8a" : "D3D3D3", "e0975c" : "B4B4B4", "a85636" : "969696", "6f2919" : "7A7A7A" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Grey Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "gray" ],
+			"colours" : { "ffca8a" : "ADADAD", "e0975c" : "8C8C8C", "a85636" : "717171", "6f2919" : "515151" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Ash Grey Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "gray" ],
+			"colours" : { "ffca8a" : "575757", "e0975c" : "474747", "a85636" : "373737", "6f2919" : "2A2A2A" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Black Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "black" ],
+			"colours" : { "ffca8a" : "434D5B", "e0975c" : "353D49", "a85636" : "222433", "6f2919" : "120C23" }
+	}}, 	
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Charcoal Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "black" ],
+			"colours" : { "ffca8a" : "3C3C3C", "e0975c" : "292929", "a85636" : "171717", "6f2919" : "080808" }
+	}}, 
+			
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Midnight Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "black" ],
+			"colours" : { "ffca8a" : "232323", "e0975c" : "131313", "a85636" : "040404", "6f2919" : "020202" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Red Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "red" ],
+			"colours" : { "ffca8a" : "D3716E", "e0975c" : "B54D4A", "a85636" : "99322F", "6f2919" : "70201D" }
+	}}, 			
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Orange Red Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "red", "orange" ],
+			"colours" : { "ffca8a" : "E0734C", "e0975c" : "C6553B", "a85636" : "AD382B", "6f2919" : "931F1D" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Maroon Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "red" ],
+			"colours" : { "ffca8a" : "6F4F4C", "e0975c" : "603C42", "a85636" : "512D39", "6f2919" : "3A222E" }
+	}}, 							
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Pink Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "pink", "white" ],
+			"colours" : { "ffca8a" : "FBF4F1", "e0975c" : "F9E2DC", "a85636" : "EBB2AD", "6f2919" : "DF9991" }
+	}}, 		 		
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Pink Fluff B", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "pink" ],
+			"colours" : { "ffca8a" : "FFC6F0", "e0975c" : "E5A7D9", "a85636" : "CC8AC5", "6f2919" : "B270B1" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Rosy Pink Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "pink", "magenta" ],
+			"colours" : { "ffca8a" : "EA7CB7", "e0975c" : "CE61A6", "a85636" : "B24794", "6f2919" : "992D83" }
+	}}, 							
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Orange Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "orange" ],
+			"colours" : { "ffca8a" : "E8A34E", "e0975c" : "CC7928", "a85636" : "AD591A", "6f2919" : "993F0F" }
+	}}, 							
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Pastel Ora. Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "orange", "white" ],
+			"colours" : { "ffca8a" : "FBF7F1", "e0975c" : "F9ECDC", "a85636" : "EBC8AD", "6f2919" : "DFB491" }
+	}}, 						
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Light Brown Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "brown" ],
+			"colours" : { "ffca8a" : "C5AA9E", "e0975c" : "AA8D81", "a85636" : "927669", "6f2919" : "735B53" }
+	}}, 						
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Sandy Brown Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "brown" ],
+			"colours" : { "ffca8a" : "FFECBD", "e0975c" : "F2D3A1", "a85636" : "DBB68C", "6f2919" : "BA987C" }
+	}}, 						
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Light Brown Fluff B", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "brown" ],
+			"colours" : { "ffca8a" : "E9D3AF", "e0975c" : "CAB28C", "a85636" : "AF9771", "6f2919" : "8A775A" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Polyphemus Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "brown" ],
+			"colours" : { "ffca8a" : "D8A060", "e0975c" : "C48A45", "a85636" : "9B6530", "6f2919" : "6F4A2B" }
+	}}, 	
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Mid Brown Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "brown" ],
+			"colours" : { "ffca8a" : "846D4D", "e0975c" : "755C3A", "a85636" : "664D2B", "6f2919" : "503C23" }
+	}}, 				
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Brown Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "brown" ],
+			"colours" : { "ffca8a" : "C1AB87", "e0975c" : "A28A64", "a85636" : "876F49", "6f2919" : "624F32" }
+	}}, 							
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Grey Brown Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "brown" ],
+			"colours" : { "ffca8a" : "C7BAA5", "e0975c" : "AD9F88", "a85636" : "968872", "6f2919" : "796D5C" }
+	}}, 						
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Yellow Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "yellow" ],
+			"colours" : { "ffca8a" : "F4D57F", "e0975c" : "E5BB67", "a85636" : "D3A156", "6f2919" : "B58956" }
+	}}, 						
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Wax Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "yellow", "white" ],
+			"colours" : { "ffca8a" : "F7F7E4", "e0975c" : "E7E2BE", "a85636" : "DAD4A6", "6f2919" : "C4BD89" }
+	}}, 							
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Gold Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "yellow" ],
+			"colours" : { "ffca8a" : "D6BA5E", "e0975c" : "B79538", "a85636" : "99751D", "6f2919" : "725110" }
+	}}, 							
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Lime Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "yellow", "green" ],
+			"colours" : { "ffca8a" : "BDDD66", "e0975c" : "96C244", "a85636" : "74A82B", "6f2919" : "548423" }
+	}}, 									
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Mint Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "green", "white" ],
+			"colours" : { "ffca8a" : "E2F7DC", "e0975c" : "B7EAAD", "a85636" : "98DD92", "6f2919" : "88CC88" }
+	}}, 								
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Luna Green Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "green" ],
+			"colours" : { "ffca8a" : "A3ED9A", "e0975c" : "7BD67A", "a85636" : "5DBF65", "6f2919" : "3E994D" }
+	}}, 						
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Dark Green Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "green" ],
+			"colours" : { "ffca8a" : "61925E", "e0975c" : "407544", "a85636" : "2B5E37", "6f2919" : "1A4229" }
+	}}, 						
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Teal Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "cyan" ],
+			"colours" : { "ffca8a" : "87C19B", "e0975c" : "63A082", "a85636" : "488470", "6f2919" : "326059" }
+	}}, 						
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Cyan Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "cyan" ],
+			"colours" : { "ffca8a" : "79DAD2", "e0975c" : "58BEB5", "a85636" : "48989E", "6f2919" : "306B7C" }
+	}}, 							
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Sky Blue Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "blue" ],
+			"colours" : { "ffca8a" : "81C0D3", "e0975c" : "619DB7", "a85636" : "47799B", "6f2919" : "38597A" }
+	}}, 						
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Blue Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "blue" ],
+			"colours" : { "ffca8a" : "819ED6", "e0975c" : "6176B7", "a85636" : "4958A0", "6f2919" : "383D7C" }
+	}}, 				
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Veno S Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "blue", "purple" ],
+			"colours" : { "ffca8a" : "96C5FF", "e0975c" : "80A5E5", "a85636" : "6884CC", "6f2919" : "556EBA" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Indigo Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "blue", "purple" ],
+			"colours" : { "ffca8a" : "8281D6", "e0975c" : "6167B7", "a85636" : "4958A0", "6f2919" : "384A7C" }
+	}}, 							
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Purple Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "purple" ],
+			"colours" : { "ffca8a" : "A781D6", "e0975c" : "7F61B7", "a85636" : "5F49A0", "6f2919" : "43387C" }
+	}}, 				
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Io Purple Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "purple" ],
+			"colours" : { "ffca8a" : "8D7799", "e0975c" : "7A6489", "a85636" : "66537A", "6f2919" : "53436B" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth Veno Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "purple" ],
+			"colours" : { "ffca8a" : "DEC6FF", "e0975c" : "BCA7E5", "a85636" : "9B8ACC", "6f2919" : "7B70B2" }
+	}}, 
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth White Blue Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "blue", "white" ],
+			"colours" : { "ffca8a" : "EFEFEF", "e0975c" : "CBD1ED", "a85636" : "B2C6EB", "6f2919" : "9EBFE7" }
+	}}, 						
+	{
+		"op" : "add", "path" : "/palettes/-", "value" : { 
+			"name" : "Moth White Pink Fluff", 
+			"categories" : [ "all", "saturnians", "sat. fluff", "pink", "white" ],
+			"colours" : { "ffca8a" : "F6E1F7", "e0975c" : "D8A8E0", "a85636" : "B985C6", "6f2919" : "9B67AF" }
+	}}
+]
